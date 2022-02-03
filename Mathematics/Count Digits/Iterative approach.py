@@ -1,3 +1,5 @@
+#time complexity o(n)
+
 count = 0
 number = int(input("Enter a number "))
 
@@ -6,3 +8,5 @@ while (number > 0):
   count = count + 1
 
 print ("Total number of digits : ",count)
+
+
